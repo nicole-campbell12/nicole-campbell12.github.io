@@ -1,16 +1,3 @@
 theme: jekyll-theme-so-simple
----
 title: Welcome to Drea Cole
----
 description: [building an empire]
----
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    <h1>{{ "coley's here" | downcase }}</h1>
-  </body>
-</html>
