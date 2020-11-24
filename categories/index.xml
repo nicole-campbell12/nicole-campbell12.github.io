@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Drea Cole | Designed by Drea</title>
+    <link>https://dreacole.com/categories/</link>
+    <description>Recent content in Categories on Drea Cole | Designed by Drea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://dreacole.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Android And Gaming</title>
+      <link>https://dreacole.com/categories/android-and-gaming/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://dreacole.com/categories/android-and-gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://dreacole.com/categories/python/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://dreacole.com/categories/python/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
