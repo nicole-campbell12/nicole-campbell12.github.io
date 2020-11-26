@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>guacamole on Drea Cole | Designed by Drea</title>
+    <link>https://dreacole.com/tags/guacamole/</link>
+    <description>Recent content in guacamole on Drea Cole | Designed by Drea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://dreacole.com/tags/guacamole/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Boss Guacamole!</title>
+      <link>https://dreacole.com/blog/guac/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://dreacole.com/blog/guac/</guid>
+      <description>You need this sassy guacamole in your life.
+It’s spicy with a little attitude and has just the right amount of texture.</description>
+    </item>
+    
+  </channel>
+</rss>
