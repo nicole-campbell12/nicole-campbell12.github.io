@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solutions on Drea Cole | Designed by Drea</title>
+    <link>https://dreacole.com/categories/solutions/</link>
+    <description>Recent content in Solutions on Drea Cole | Designed by Drea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://dreacole.com/categories/solutions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Self-Serve Kids Breakfast</title>
+      <link>https://dreacole.com/blog/kid-breakfast/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://dreacole.com/blog/kid-breakfast/</guid>
+      <description>On the weekends, our 7 year old gets up at the crack of dawn&amp;hellip;but I can’t get him to wake up that early for school, go figure.</description>
+    </item>
+    
+  </channel>
+</rss>
