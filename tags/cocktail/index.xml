@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cocktail on Drea Cole | Designed by Drea</title>
+    <link>https://dreacole.com/tags/cocktail/</link>
+    <description>Recent content in Cocktail on Drea Cole | Designed by Drea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2020 13:49:23 +0600</lastBuildDate>
+    
+	<atom:link href="https://dreacole.com/tags/cocktail/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shortcut Cocktail - The Bellini</title>
+      <link>https://dreacole.com/blog/bellini/</link>
+      <pubDate>Thu, 31 Dec 2020 13:49:23 +0600</pubDate>
+      
+      <guid>https://dreacole.com/blog/bellini/</guid>
+      <description>It was the last weekend of our 2-week holiday break and I knew Monday was going to be rough.</description>
+    </item>
+    
+  </channel>
+</rss>
