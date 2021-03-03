@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes on Drea Cole | Drea Cole</title>
+    <link>https://dreacole.com/categories/recipes/</link>
+    <description>Recent content in Recipes on Drea Cole | Drea Cole</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2020 13:49:23 +0600</lastBuildDate>
+    
+	<atom:link href="https://dreacole.com/categories/recipes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Boss Guacamole!</title>
+      <link>https://dreacole.com/blog/spicy-guacamole-recipe/</link>
+      <pubDate>Thu, 31 Dec 2020 13:49:23 +0600</pubDate>
+      
+      <guid>https://dreacole.com/blog/spicy-guacamole-recipe/</guid>
+      <description>You need this sassy guacamole in your life.
+It’s spicy with a little attitude and has just the right amount of texture.</description>
+    </item>
+    
+  </channel>
+</rss>
